@@ -1,4 +1,4 @@
-A Expense tracker project.
+An Expense Tracker project.
 
 This project will keep the record of you monthly expenses.
 
