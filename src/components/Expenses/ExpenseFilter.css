@@ -1,0 +1,21 @@
+.expense-filter {
+  padding: 1rem;
+  margin: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.expense-filter__title {
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+.year_selection {
+  border-color: var(--color);
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+  border-radius: 5px;
+  outline: none;
+  letter-spacing: 2px;
+  min-height: 1rem;
+  min-width: 6rem;
+}
